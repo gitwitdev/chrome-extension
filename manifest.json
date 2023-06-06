@@ -1,0 +1,9 @@
+{
+  "name": "My Chrome Extension",
+  "version": "1.0",
+  "description": "This is my first Chrome extension.",
+  "manifest_version": 2,
+  "browser_action": {
+    "default_popup": "popup.html"
+  }
+}
